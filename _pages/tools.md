@@ -28,7 +28,7 @@ An interactive visualization demonstrating conformal prediction with Kumaraswamy
 - Miscoverage levels $\alpha_0, \alpha_1$
 - Five preset configurations demonstrating different scenarios
 
-### [Launch Tool](YOUR_ARTIFACT_URL_HERE)
+### [Launch Tool](https://claude.ai/public/artifacts/b241e325-3237-4dd1-ac6a-328b87e97a6c)
 
 **Related Publication:**  
 Zwart, P.H. (2025). "Probabilistic Conformal Coverage Guarantees in Small-Data Settings." arXiv:2509.15349
