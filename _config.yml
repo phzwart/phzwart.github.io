@@ -16,14 +16,14 @@ talkmap_link             : false
 
 # Site Author
 author:
-  name             : "Peter H. Zwart, PhD"
-  avatar           : "profile.png"
+  name             : "Petrus H. Zwart, PhD"
+  avatar           : "profile.jpg"
   bio              : "Computational Biophysicist & ML Researcher at Lawrence Berkeley National Laboratory"
   location         : "Berkeley, CA"
   employer         : "Lawrence Berkeley National Laboratory"
   pubmed           : 
   googlescholar    : # "YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "phzwart@protonmail.com"
+  email            : "phzwart@lbl.gov"
   github           : "phzwart"
   orcid            : 
 
